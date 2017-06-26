@@ -1,0 +1,15 @@
+<resources>
+	<dimen name = "activity_horizontal_margin">16dp</dimen>
+	<dimen name = "activity_vertical_margin">8dp</dimen>
+
+	<dimen name = "card_view_elevation">2dp</dimen>
+	<dimen name = "card_view_corner_radius">5dp</dimen>
+	<dimen name = "card_view_photo_item_size">192dp</dimen>
+	<dimen name = "card_view_margin">4dp</dimen>
+	<dimen name = "card_view_photo_info_margin">32dp</dimen>
+
+	<dimen name = "shop_item_margin">4dp</dimen>
+	<dimen name = "default_margin">8dp</dimen>
+	<dimen name = "image_width">72dp</dimen>
+	<dimen name = "spacing_normal">16dp</dimen>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+	<string name = "app_name">5XXP</string>
+
+	<string name = "navigation_bar_item_home">Home</string>
+
+	<string name = "user_name" formatted = "false"> %s %s</string>
+</resources>

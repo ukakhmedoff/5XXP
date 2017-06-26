@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name = "app_name">Stoket</string>
+	<string name = "product_price">Купить за %s рублей</string>
+	<string name = "shops_map">Карта</string>
+	<string name = "shops_list">Список</string>
+	<string name = "show_shop_in_map">Показать на карте</string>
+	<string name = "call_to_shop">Позвонить</string>
+	<string name = "fragment_main_toolbar_filter_item">Список фильтров</string>
+	<string name = "navigation_filter_drawer_title">Фильтры</string>
+	<string name = "navigation_filter_drawer_apply">Применить</string>
+	<string name = "navigation_filter_drawer_price_max">Цена до</string>
+	<string name = "navigation_filter_drawer_price_min">Цена от</string>
+	<string name = "navigation_filter_drawer_brand">Брэнд</string>
+	<string name = "navigation_bar_item_shopping_basket">Корзина</string>
+	<string name = "navigation_bar_item_shops">Магазины</string>
+	<string name = "navigation_bar_item_favourite">Избранное</string>
+	<string name = "navigation_bar_item_home">Главная</string>
+</resources>
